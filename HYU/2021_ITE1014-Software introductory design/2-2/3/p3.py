@@ -1,0 +1,6 @@
+x = input('x: ')
+a = input('*a: ')
+b = input('/b: ')
+c = input('+c: ')
+d = input('-d: ')
+print(x + ' * ' + a + ' / ' + b + ' + ' + c + ' - ' + d + ' = ' + str(int(x) * int(a) / int(b) + int(c) - int(d)))
