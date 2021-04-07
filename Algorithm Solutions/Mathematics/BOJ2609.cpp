@@ -4,6 +4,10 @@ using namespace std;
 
 int main(void)
 {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
+	
     int a, b;
     cin>>a>>b;
     
@@ -20,15 +24,7 @@ int main(void)
         }
     }
     
-    int lcm = -1;
-    for(int i = greater; i <= smaller * greater; ++i)
-    {
-        if(i % greater == 0 && i % smaller == 0)
-        {
-            lcm = i;
-            break;
-        }
-    }
+    int lcm = a * b / gcf;
     
     cout<<gcf<<'\n'<<lcm<<endl;
     
