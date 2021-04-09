@@ -1,0 +1,38 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: cl.exe 활성 파일 빌드",
+			"command": "cl.exe",
+			"args": [
+				"/Zi",
+				"/EHsc",
+				"/nologo",
+				"/Fe:",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"${file}"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "c 또는 cpp 파일 빌드"
+		},
+		{
+			"label": "C/C++: 활성 파일 실행",
+			"command": "${fileBasenameNoExtension}.exe",
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			},
+			"detail": "빌드된 exe 파일 실행"
+		}
+	]
+}
