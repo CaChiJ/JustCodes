@@ -1,8 +1,0 @@
-// 키 바인딩을 이 파일에 넣어서 기본값 재정의
-[
-    // 컴파일
-    {"key": "ctrl+alt+c", "command": "workbench.action.tasks.build"},
-
-    // 실행
-    {"key": "ctrl+alt+r", "command": "workbench.action.tasks.test"}
-]
