@@ -1,0 +1,16 @@
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\bin\Debug\net5.0\MainApp.cs.exe
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\bin\Debug\net5.0\MainApp.cs.deps.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\bin\Debug\net5.0\MainApp.cs.runtimeconfig.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\bin\Debug\net5.0\MainApp.cs.runtimeconfig.dev.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\bin\Debug\net5.0\MainApp.cs.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\bin\Debug\net5.0\ref\MainApp.cs.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\bin\Debug\net5.0\MainApp.cs.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.csprojAssemblyReference.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.AssemblyInfoInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.AssemblyInfo.cs
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\ref\MainApp.cs.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\IntegralTypes\MainApp.cs\obj\Debug\net5.0\MainApp.cs.genruntimeconfig.cache

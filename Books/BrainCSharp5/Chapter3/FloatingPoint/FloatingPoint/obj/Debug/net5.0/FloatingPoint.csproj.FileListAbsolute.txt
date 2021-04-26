@@ -1,0 +1,16 @@
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatingPoint.exe
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatingPoint.deps.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatingPoint.runtimeconfig.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatingPoint.runtimeconfig.dev.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatingPoint.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\ref\FloatingPoint.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatingPoint.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.csprojAssemblyReference.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.AssemblyInfo.cs
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\ref\FloatingPoint.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatingPoint.genruntimeconfig.cache

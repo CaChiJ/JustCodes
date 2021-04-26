@@ -1,0 +1,16 @@
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatAndDecimal.exe
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatAndDecimal.deps.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatAndDecimal.runtimeconfig.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatAndDecimal.runtimeconfig.dev.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatAndDecimal.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\ref\FloatAndDecimal.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\bin\Debug\net5.0\FloatAndDecimal.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.csprojAssemblyReference.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.AssemblyInfoInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.AssemblyInfo.cs
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.csproj.CoreCompileInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\ref\FloatAndDecimal.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\FloatingPoint\FloatingPoint\obj\Debug\net5.0\FloatAndDecimal.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\bin\Debug\net5.0\SignedUnsigned.exe
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\bin\Debug\net5.0\SignedUnsigned.deps.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\bin\Debug\net5.0\SignedUnsigned.runtimeconfig.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\bin\Debug\net5.0\SignedUnsigned.runtimeconfig.dev.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\bin\Debug\net5.0\SignedUnsigned.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\bin\Debug\net5.0\ref\SignedUnsigned.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\bin\Debug\net5.0\SignedUnsigned.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.csprojAssemblyReference.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.AssemblyInfoInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.AssemblyInfo.cs
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.csproj.CoreCompileInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\ref\SignedUnsigned.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\SignedUnsigned\obj\Debug\net5.0\SignedUnsigned.genruntimeconfig.cache
