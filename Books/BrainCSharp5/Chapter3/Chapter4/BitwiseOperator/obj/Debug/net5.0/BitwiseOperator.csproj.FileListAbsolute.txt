@@ -1,0 +1,16 @@
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\bin\Debug\net5.0\BitwiseOperator.exe
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\bin\Debug\net5.0\BitwiseOperator.deps.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\bin\Debug\net5.0\BitwiseOperator.runtimeconfig.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\bin\Debug\net5.0\BitwiseOperator.runtimeconfig.dev.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\bin\Debug\net5.0\BitwiseOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\bin\Debug\net5.0\ref\BitwiseOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\bin\Debug\net5.0\BitwiseOperator.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.csprojAssemblyReference.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.AssemblyInfoInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.AssemblyInfo.cs
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\ref\BitwiseOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\BitwiseOperator\obj\Debug\net5.0\BitwiseOperator.genruntimeconfig.cache

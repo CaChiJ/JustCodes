@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chj72\\Repos\\JustCodes\\Books\\BrainCSharp5\\Chapter3\\Chapter4\\Chapter4\\ShiftOperator.csproj",
-      "projectName": "ShiftOperator",
-      "projectPath": "C:\\Users\\chj72\\Repos\\JustCodes\\Books\\BrainCSharp5\\Chapter3\\Chapter4\\Chapter4\\ShiftOperator.csproj",
+      "projectUniqueName": "C:\\Users\\chj72\\Repos\\JustCodes\\Books\\BrainCSharp5\\Chapter3\\Chapter4\\BitwiseOperator\\BitwiseOperator.csproj",
+      "projectName": "BitwiseOperator",
+      "projectPath": "C:\\Users\\chj72\\Repos\\JustCodes\\Books\\BrainCSharp5\\Chapter3\\Chapter4\\BitwiseOperator\\BitwiseOperator.csproj",
       "packagesPath": "C:\\Users\\chj72\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chj72\\Repos\\JustCodes\\Books\\BrainCSharp5\\Chapter3\\Chapter4\\Chapter4\\obj\\",
+      "outputPath": "C:\\Users\\chj72\\Repos\\JustCodes\\Books\\BrainCSharp5\\Chapter3\\Chapter4\\BitwiseOperator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

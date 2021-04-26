@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4", "Chapter4\Chapter4.csproj", "{FB994617-AAFB-48AE-86F4-11699D29C465}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftOperator", "Chapter4\ShiftOperator.csproj", "{FB994617-AAFB-48AE-86F4-11699D29C465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseOperator", "BitwiseOperator\BitwiseOperator.csproj", "{B210A177-D9C1-44D2-9462-7FD0BFACB6DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FB994617-AAFB-48AE-86F4-11699D29C465}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB994617-AAFB-48AE-86F4-11699D29C465}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB994617-AAFB-48AE-86F4-11699D29C465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B210A177-D9C1-44D2-9462-7FD0BFACB6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B210A177-D9C1-44D2-9462-7FD0BFACB6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B210A177-D9C1-44D2-9462-7FD0BFACB6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B210A177-D9C1-44D2-9462-7FD0BFACB6DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

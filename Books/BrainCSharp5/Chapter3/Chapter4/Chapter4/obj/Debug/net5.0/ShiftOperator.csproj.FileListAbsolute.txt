@@ -1,0 +1,15 @@
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\bin\Debug\net5.0\ShiftOperator.exe
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\bin\Debug\net5.0\ShiftOperator.deps.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\bin\Debug\net5.0\ShiftOperator.runtimeconfig.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\bin\Debug\net5.0\ShiftOperator.runtimeconfig.dev.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\bin\Debug\net5.0\ShiftOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\bin\Debug\net5.0\ref\ShiftOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\bin\Debug\net5.0\ShiftOperator.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ShiftOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ShiftOperator.AssemblyInfoInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ShiftOperator.AssemblyInfo.cs
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ShiftOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ref\ShiftOperator.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ShiftOperator.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter3\Chapter4\Chapter4\obj\Debug\net5.0\ShiftOperator.genruntimeconfig.cache
