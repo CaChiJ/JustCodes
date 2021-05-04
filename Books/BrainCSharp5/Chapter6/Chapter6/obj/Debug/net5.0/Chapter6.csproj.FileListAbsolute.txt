@@ -1,0 +1,16 @@
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.csprojAssemblyReference.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.AssemblyInfoInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.AssemblyInfo.cs
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.csproj.CoreCompileInputs.cache
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\bin\Debug\net5.0\Chapter6.exe
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\bin\Debug\net5.0\Chapter6.deps.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\bin\Debug\net5.0\Chapter6.runtimeconfig.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\bin\Debug\net5.0\Chapter6.runtimeconfig.dev.json
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\bin\Debug\net5.0\Chapter6.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\bin\Debug\net5.0\ref\Chapter6.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\bin\Debug\net5.0\Chapter6.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\ref\Chapter6.dll
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.pdb
+C:\Users\chj72\Repos\JustCodes\Books\BrainCSharp5\Chapter6\Chapter6\obj\Debug\net5.0\Chapter6.genruntimeconfig.cache
