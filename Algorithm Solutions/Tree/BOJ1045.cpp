@@ -8,8 +8,7 @@ using namespace std;
 
 const int MAX_N = 50;
 int parent[MAX_N];
-typedef pair<int, int> Edge;
-priority_queue<Edge, vector<Edge>, greater<Edge> > edge;
+vector<pair<int, int> > edge;
 
 int find(int node)
 {
@@ -48,14 +47,13 @@ int main(void)
 			
 			if(line[j] == 'Y') {
         	    if(find(i) != find(j)) {
-        	    	//cout << i << ' ' << j << '\n';
         	        unite(i, j);
         	        roadCount++;
                 
             	    ans[i]++;
             	    ans[j]++;
         	    } else {
-    	        	edge.push({i, j});
+    	        	edge.push_back({i, j});
 				}	
 			}
         }
@@ -66,17 +64,15 @@ int main(void)
 		return 0;
 	}
     
-	//cout << "=============" << endl;
     for(int i = N-1; i < M; ++i) {
     	if(edge.empty()) {
     		cout << -1 << endl;
     		return 0;
 		}
 		
-		//cout << edge.top().first << ' ' << edge.top().second << endl;
-    	ans[edge.top().first]++;
-    	ans[edge.top().second]++;
-    	edge.pop();
+    	ans[edge.front().first]++;
+    	ans[edge.front().second]++;
+    	edge.erase(edge.begin());
 	}
 	
 	for(int i = 0; i < N; ++i) {
