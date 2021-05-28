@@ -11,8 +11,9 @@ int main(void)
     while(true) {
     	cin >> N >> M;
     	if(N == 0 && M == 0.00) {
-    		break;
-		}
+    	    break;
+	}
+	
         vector<int> c(N);
         vector<int> p(N);
         
