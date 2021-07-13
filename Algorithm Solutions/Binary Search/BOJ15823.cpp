@@ -11,12 +11,14 @@ int main(void)
     
     vector<int> card(N);
     cin >> card[0];
+    
     for(int i = 1; i < N; ++i) {
         cin >> card[i];
     }
     
     int left = 1;
     int right = N / M;
+    
     while(left < right) {
         int mid = (left + right) / 2.0 + 0.5;
         bool visited[500'001];
@@ -25,6 +27,7 @@ int main(void)
         int start = 0;
         int end = 0;
         int packCnt = 0;
+	
         for(int i = 0; i < N; ++i) {
             if(visited[card[i]]) {
                 while(card[start] != card[i]) {
@@ -36,10 +39,12 @@ int main(void)
              
             end++;
             visited[card[i]] = true;
+	    
             if(end - start >= mid) {
             	for(int j = start; j < end; ++j) {
             		visited[card[j]] = false;
-				}
+		}
+		
                 start = end;
                 packCnt++;
             }
@@ -51,6 +56,7 @@ int main(void)
             left = mid;
         }
     }
+    
     cout << left << endl;
     
     return 0;
