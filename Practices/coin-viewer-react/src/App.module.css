@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.appTitle {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.appAuthor {
+    font-size:6px;
+    font-weight: 700;
+    color: black;
+    border: 0px solid black;
+    border-radius: 6px;
+    padding: 4px 6px;
+    background-color: rgb(107, 224, 205);
+}
