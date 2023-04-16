@@ -3,52 +3,43 @@
 
 using namespace std;
 
-const int MAXN = 200000;
-int X[MAXN];
+const int MAX_N = 200'000;
+int positions[MAX_N];
 
-int main(void)
-{
+int main(void) {
 	int N, C;
-	cin>>N>>C;
+	cin >> N >> C;
 	
-	for(int i = 0; i < N; ++i) {
-		cin>>X[i];
+	for (int i = 0; i < N; ++i) {
+		cin >> positions[i];
 	}
 	
-	sort(X, X + N);
+	sort(positions, positions + N);
 	
-	int left = 0;
-	int right = X[N-1] - X[0];
+	int minD = 1;
+	int maxD = 1'000'000'000;
 	
-	while(left < right)
-	{
-		int mid = (left + right) / 2.0 + 0.5;
-		int dist = 987654321;
-		int count = 0;
+	while (minD < maxD) {
+		int midD = (minD + maxD + 1) / 2;
+		int last = positions[0];
+		int count = 1;
 		
-		for(int i = 0; i < N; ++i) {
-			if(i > 0) {
-				dist += X[i] - X[i-1];
-			}
+		for (int i = 1; i < N; ++i) {
+			int pos = positions[i];
 			
-			if(dist >= mid) {
+			if (pos - last >= midD) {
 				count++;
-				dist = 0;
-			} 
-			
-			if(count > C) {
-				break;
+				last = pos;
 			}
 		}
 		
-		if(count >= C) {
-			left = mid;
+		if (count >= C) {
+			minD = midD;
 		} else {
-			right = mid - 1;
+			maxD = midD - 1;
 		}
 	}
 	
-	cout<<left<<endl;
-	
+	cout << minD << endl;
 	return 0;
 }
