@@ -27,7 +27,7 @@ long long solution(int n, int r, int c) {
 	result += solution(
 		n - 1,
 		r > half ? r - half : r,
-		c > half ? c - half : c
+		c > half ? c - halfT : c
 	);
 	
 	return result;
