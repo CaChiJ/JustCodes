@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <algorithm>
 
 using namespace std;
 
@@ -14,6 +15,8 @@ int main(void) {
     for (int i = 0; i < N; ++i) {
         cin >> elem[i];
     }
+	
+	sort(elem, elem + N);
 
     // 산술 평균
     int sum = 0;
@@ -26,8 +29,6 @@ int main(void) {
     cout << average << '\n';
 
     // 중앙값
-    
-
     int median = elem[N / 2];
     cout << median << '\n';
 
