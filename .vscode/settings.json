@@ -1,7 +1,9 @@
 {
     "files.associations": {
+        "*.ejs": "html",
         "queue": "cpp",
         "stack": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "iostream": "cpp"
     }
 }
