@@ -1,0 +1,88 @@
+#include <iostream>
+#include <vector>
+#include <utility>
+#include <queue>
+#include <algorithm>
+
+using namespace std;
+
+int visited[10000];
+int distance[10000];
+
+int main(void) {
+    int N;
+    cin >> N;
+    vector<pair<int, int>> graph(N);
+
+    for (int i = 0; i < N - 1; ++i) {
+        int a, b, w;
+        cin >> a >> b >> w;
+        a--;
+        b--;
+        graph[a].emplace_back(b, w);
+        graph[b].emplace_back(a, w);
+    }
+
+    priority_queue<pair<int, int>, vector<pair<int, int>>, greator<pair<int, int>>> pq;
+    pq.push({0, 0});
+    int dist;
+    int node;
+    
+    while (!pq.empty()) {
+        pair<int, int> cur = pq.front();
+        pq.pop();
+        dist = cur.first
+        node = cur.second;
+
+        if (isVisited[node]) {
+            continue;
+        }
+
+        isVisited[node] = 1;
+        distance[node] = dist;
+
+        for (int i = 0; i < graph[node].size(); ++i) {
+            int nextNode = graph[node][i].first;
+            int nextWeight = graph[node][i].second;
+
+            if (isVisited[nextNode]) {
+                continue;
+            }
+
+            pq.push({dist + nextWeight, nextNode})
+        }
+    }
+
+    int edge1 = node;
+    int dist = 0;
+    fill_n(isVisited, 10000, 0);
+    fill_n(distance, 10000, 0);
+
+
+    while (!pq.empty()) {
+        pair<int, int> cur = pq.front();
+        pq.pop();
+        dist = cur.first
+        node = cur.second;
+
+        if (isVisited[node]) {
+            continue;
+        }
+
+        isVisited[node] = 1;
+        distance[node] = dist;
+
+        for (int i = 0; i < graph[node].size(); ++i) {
+            int nextNode = graph[node][i].first;
+            int nextWeight = graph[node][i].second;
+
+            if (isVisited[nextNode]) {
+                continue;
+            }
+
+            pq.push({dist + nextWeight, nextNode})
+        }
+    }
+
+
+}
